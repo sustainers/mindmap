@@ -4,7 +4,7 @@ markmap:
   maxWidth: 400
 ---
 
-# 🧭 OSPO Mindmap - [Available in multiple languages](https://github.com/todogroup/ospology/tree/main/ospo-mindmap/Content)
+# 🌱 Sustainers Mindmap
 
 ## 🙋 Roles
 
